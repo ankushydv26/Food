@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/ankushydv26/Food/static/js/main.6126316a.chunk.js",
+    "main.js.map": "/ankushydv26/Food/static/js/main.6126316a.chunk.js.map",
+    "runtime-main.js": "/ankushydv26/Food/static/js/runtime-main.97d14bd7.js",
+    "runtime-main.js.map": "/ankushydv26/Food/static/js/runtime-main.97d14bd7.js.map",
+    "static/css/2.150d169a.chunk.css": "/ankushydv26/Food/static/css/2.150d169a.chunk.css",
+    "static/js/2.6c79f880.chunk.js": "/ankushydv26/Food/static/js/2.6c79f880.chunk.js",
+    "static/js/2.6c79f880.chunk.js.map": "/ankushydv26/Food/static/js/2.6c79f880.chunk.js.map",
+    "static/js/3.843f53a2.chunk.js": "/ankushydv26/Food/static/js/3.843f53a2.chunk.js",
+    "static/js/3.843f53a2.chunk.js.map": "/ankushydv26/Food/static/js/3.843f53a2.chunk.js.map",
+    "index.html": "/ankushydv26/Food/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/ankushydv26/Food/static/css/2.150d169a.chunk.css.map",
+    "static/js/2.6c79f880.chunk.js.LICENSE.txt": "/ankushydv26/Food/static/js/2.6c79f880.chunk.js.LICENSE.txt",
+    "static/media/Butter-Naan-Recipe1.453d197d.jpg": "/ankushydv26/Food/static/media/Butter-Naan-Recipe1.453d197d.jpg",
+    "static/media/paaner.97a69f08.jpg": "/ankushydv26/Food/static/media/paaner.97a69f08.jpg",
+    "static/media/palak.b05b8f8b.jpg": "/ankushydv26/Food/static/media/palak.b05b8f8b.jpg",
+    "static/media/paneer-paratha.f51d389f.jpg": "/ankushydv26/Food/static/media/paneer-paratha.f51d389f.jpg",
+    "static/media/veg-biryani.8479b798.jpg": "/ankushydv26/Food/static/media/veg-biryani.8479b798.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97d14bd7.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.6c79f880.chunk.js",
+    "static/js/main.6126316a.chunk.js"
+  ]
+}
