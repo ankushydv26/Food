@@ -1,4 +1,5 @@
-{
+{ 
+  "homepage": "https://github.com/ankushydv26/Food/",
   "name": "client",
   "version": "0.1.0",
   "private": true,
@@ -14,6 +15,7 @@
     "autoprefixer": "^9.8.6",
     "bootstrap": "^4.6.0",
     "firebase": "^8.2.6",
+    "gh-pages": "^3.1.0",
     "postcss": "^7.0.35",
     "react": "^17.0.1",
     "react-bootstrap": "^1.4.3",
@@ -26,7 +28,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
